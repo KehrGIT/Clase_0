@@ -1,4 +1,5 @@
 1- git init => inicializa el repositorio O LO REINICIA
 2- git status => obtengo info del repositorio
 3- git add [archivos] => agrego archivos al area de stageing
-4- git commit => 
+4- git commit -m 'Texto explicativo del commit' =>
+5- git log => para ver autor y coso
